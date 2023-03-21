@@ -1,0 +1,157 @@
+audio_name,class_name,class
+"808 - Zero Six_[11,2].wav",BASS,0
+"BASS - 1990 Reese_[13,0].wav",BASS,0
+"BASS - Alpha_[13,1].wav",BASS,0
+"BASS - Analogic_[5,4].wav",BASS,0
+"BASS - Analog_[8,10].wav",BASS,0
+"BASS - Archetypal Found_[7,13].wav",BASS,0
+"BASS - Avarice_[6,11].wav",BASS,0
+"BASS - Bands_[13,2].wav",BASS,0
+"BASS - Banksy_[4,6].wav",BASS,0
+"BASS - Banshee_[11,11].wav",BASS,0
+"[BASS] DreamerBassist_[9,6].wav",BASS,0
+"[BASS] DroptheGame_[21,1].wav",BASS,0
+"[BASS] Electric Bass_[23,3].wav",BASS,0
+"[BASS] Enemies_[15,0].wav",BASS,0
+"[BASS] Feeling Fuzzy_[21,2].wav",BASS,0
+"[BASS] FeelingLove_[6,3].wav",BASS,0
+"[BASS] ForAnyHouseSong_[12,3].wav",BASS,0
+"[BASS] FormantedDeath_[11,3].wav",BASS,0
+"[BASS] FunkyFuture_[22,2].wav",BASS,0
+"[BASS] George_[6,4].wav",BASS,0
+"[BASS] Gnarly_[8,0].wav",BASS,0
+"[BASS] Gritdara_[16,1].wav",BASS,0
+"[BASS] GrittyColors_[10,4].wav",BASS,0
+"[BASS] HardSaw_[6,5].wav",BASS,0
+"[BASS] HardstyleAnyone_[7,4].wav",BASS,0
+"[BASS] HarmonicDiode_[11,4].wav",BASS,0
+"[BASS] HeartOut_[2,0].wav",BASS,0
+"[BASS] Helix_[21,3].wav",BASS,0
+"[BASS] HoloWouldSoUseTh_[13,0].wav",BASS,0
+"[BASS] HyperFMSaws_[10,5].wav",BASS,0
+"[BASS] Hyperreal_[21,4].wav",BASS,0
+"[BASS] Iceland_[20,0].wav",BASS,0
+"[BASS] IfILeftAndManyOt_[12,4].wav",BASS,0
+"[BASS] ILikeMeBetter_[15,1].wav",BASS,0
+"[BASS] Indirect 808_[20,1].wav",BASS,0
+"[BASS] InsideOut_[7,5].wav",BASS,0
+"[BASS] InTheNameOfWhat_[9,7].wav",BASS,0
+"CHORD - Invitation to L_[7,33].wav",CHORD,1
+"CHORD - Junoesque_[9,16].wav",CHORD,1
+"CHORD - Kubaton_[11,30].wav",CHORD,1
+"CHORD - Lo Fi Saw_[12,43].wav",CHORD,1
+"CHORD - Long and Sharp_[2,18].wav",CHORD,1
+"CHORD - Love Cascade_[8,26].wav",CHORD,1
+"CHORD - Magical_[7,34].wav",CHORD,1
+"CHORD - Medusa_[9,17].wav",CHORD,1
+"CHORD - Memory_[9,18].wav",CHORD,1
+"CHORD - Middle Stack_[7,35].wav",CHORD,1
+"[CHORD] BiggestBestestS_[6,13].wav",CHORD,1
+"[CHORD] Bloodstream_[7,8].wav",CHORD,1
+"[CHORD] Bowser_[16,9].wav",CHORD,1
+"[CHORD] BoyIntro_[18,14].wav",CHORD,1
+"[CHORD] ChimesOnTheRoad_[20,8].wav",CHORD,1
+"[CHORD] Chopping Moron_[4,8].wav",CHORD,1
+"[CHORD] ClassicFeelGood_[12,8].wav",CHORD,1
+"[CHORD] ClassicHouse_[22,5].wav",CHORD,1
+"[CHORD] CloserVerse_[7,9].wav",CHORD,1
+"[CHORD] Crawl Outta Love 1_[4,9].wav",CHORD,1
+"[CHORD] Crawl Outta Love 2_[4,10].wav",CHORD,1
+"[CHORD] Deluxe Chordess_[16,10].wav",CHORD,1
+"[PAD] LineofSight_[18,42].wav",CHORD,1
+"[PAD] MakeThisDissonant_[18,43].wav",CHORD,1
+"[PAD] MoreBreathing_[15,32].wav",CHORD,1
+"[PAD] NothingSignifican_[20,26].wav",CHORD,1
+"[PAD] OuterSpace_[15,33].wav",CHORD,1
+"[PAD] PlaythePhone_[11,24].wav",CHORD,1
+"[PAD] PureDistortionGoo_[4,58].wav",CHORD,1
+"[PAD] She'sAmerican_[2,13].wav",CHORD,1
+"[PAD] Shimmer_[23,16].wav",CHORD,1
+"[PAD] Soft Dream_[5,2].wav",CHORD,1
+"[PAD] The1975_[2,14].wav",CHORD,1
+"[PAD] TheIntro_[18,44].wav",CHORD,1
+"LEAD - Truth_[14,14].wav",LEAD,2
+"LEAD - Utopia_[9,39].wav",LEAD,2
+"LEAD - Uzi_[13,49].wav",LEAD,2
+"LEAD - Valley_[13,50].wav",LEAD,2
+"LEAD - Venom Toad_[11,51].wav",LEAD,2
+"LEAD - Versatile_[8,73].wav",LEAD,2
+"LEAD - Voices_[13,51].wav",LEAD,2
+"LEAD - Volatile_[12,77].wav",LEAD,2
+"LEAD - Wail Queen_[7,104].wav",LEAD,2
+"LEAD - Wail_[8,74].wav",LEAD,2
+"[LEAD] Byte_[8,8].wav",LEAD,2
+"[LEAD] Change_[21,20].wav",LEAD,2
+"[LEAD] ChasingFire_[15,23].wav",LEAD,2
+"[LEAD] Classic Saw Lead_[23,10].wav",LEAD,2
+"[LEAD] Closer_[7,28].wav",LEAD,2
+"[LEAD] ComeBackHome_[15,24].wav",LEAD,2
+"[LEAD] Crawl_[4,41].wav",LEAD,2
+"[LEAD] Don't Say_[7,29].wav",LEAD,2
+"[LEAD] Don'tHurt_[6,21].wav",LEAD,2
+"[LEAD] DuskTillDawn_[6,22].wav",LEAD,2
+"[LEAD] Ezra_[21,21].wav",LEAD,2
+"[LEAD] Falls_[17,19].wav",LEAD,2
+"[LEAD] FeelingLove_[6,23].wav",LEAD,2
+"[LEAD] Fewture Flewte_[7,30].wav",LEAD,2
+"[LEAD] Flute Of The Fut_[17,20].wav",LEAD,2
+"[LEAD] Flute Voice_[4,42].wav",LEAD,2
+"[LEAD] FM'd Saws_[23,11].wav",LEAD,2
+"[LEAD] ForeverNew_[9,40].wav",LEAD,2
+"[LEAD] Forever_[8,9].wav",LEAD,2
+"[LEAD] ForSlowMelodies_[11,19].wav",LEAD,2
+"[LEAD] FromtheDistance_[2,7].wav",LEAD,2
+"[LEAD] GameBoyFlute_[9,41].wav",LEAD,2
+"[LEAD] GameOver_[8,10].wav",LEAD,2
+"[LEAD] George 2_[6,24].wav",LEAD,2
+"[LEAD] George_[6,25].wav",LEAD,2
+"KEYS - Vocal Piano_[8,56].wav",PLUCK,3
+"KEYS - Water_[7,78].wav",PLUCK,3
+"KEYS - White Wall_[7,79].wav",PLUCK,3
+"PLUCK - Agen_[4,39].wav",PLUCK,3
+"PLUCK - Amorous Austerity_[4,40].wav",PLUCK,3
+"PLUCK - Amorous Austeri_[4,40].wav",PLUCK,3
+"PLUCK - Angels_[13,60].wav",PLUCK,3
+"PLUCK - Angel_[2,41].wav",PLUCK,3
+"PLUCK - Authetic Ashwoo_[6,43].wav",PLUCK,3
+"PLUCK - Ballad_[5,43].wav",PLUCK,3
+"PLUCK - Bandits_[5,44].wav",PLUCK,3
+"[GUITAR] Forever_[9,29].wav",PLUCK,3
+"[GUITAR] NotABracelet_[15,20].wav",PLUCK,3
+"[GUITAR] NotAnIbanezBut_[9,30].wav",PLUCK,3
+"[GUITAR] ReggaeThis_[7,18].wav",PLUCK,3
+"[GUITAR] SlapTheStrings_[9,31].wav",PLUCK,3
+"[GUITAR] SoFarFarAway_[9,32].wav",PLUCK,3
+"[GUITAR] SolidElectric_[10,14].wav",PLUCK,3
+"[GUITAR] YouSoOweMe_[7,19].wav",PLUCK,3
+"[KEYS] OrganMoves_[2,5].wav",PLUCK,3
+"[KEYS] ParisRhodes_[7,25].wav",PLUCK,3
+"[KEYS] PianoHybrid_[14,6].wav",PLUCK,3
+"[KEYS] QuietLovePiano_[18,30].wav",PLUCK,3
+"[KEYS] RhodeFM_[14,7].wav",PLUCK,3
+"[KEYS] RoundRhodes_[14,8].wav",PLUCK,3
+"[KEYS] Runner_[4,33].wav",PLUCK,3
+"[KEYS] Safe_[20,16].wav",PLUCK,3
+"[KEYS] Saw Piano_[23,9].wav",PLUCK,3
+"[KEYS] September_[16,31].wav",PLUCK,3
+"[KEYS] SickChVrch OrgVn_[7,26].wav",PLUCK,3
+"[KEYS] SimpleByeByeSine_[12,19].wav",PLUCK,3
+"[KEYS] SineRhodes_[12,20].wav",PLUCK,3
+"[KEYS] SoftBrite_[9,37].wav",PLUCK,3
+"[KEYS] SomebodyElse_[2,6].wav",PLUCK,3
+"[KEYS] SomeMinds_[21,19].wav",PLUCK,3
+"[KEYS] Spring Plucker_[4,34].wav",PLUCK,3
+"[PLUCK] 90'sGuitarSynth_[10,22].wav",PLUCK,3
+"[PLUCK] Add Atacc_[7,41].wav",PLUCK,3
+"[PLUCK] ADifferentPluck_[15,36].wav",PLUCK,3
+"[PLUCK] ADifferentPluck_[22,13].wav",PLUCK,3
+"[PLUCK] AirFlute Hit_[19,0].wav",PLUCK,3
+"[PLUCK] All We Need_[16,36].wav",PLUCK,3
+"[PLUCK] All-PurposeWood_[10,23].wav",PLUCK,3
+"[PLUCK] AnotherMusicBox_[9,61].wav",PLUCK,3
+"[PLUCK] AnydthingCanHad_[10,24].wav",PLUCK,3
+"[PLUCK] Arcadion_[4,64].wav",PLUCK,3
+"[PLUCK] Arpeggiate me!_[23,18].wav",PLUCK,3
+"[PLUCK] Blo'wood_[16,39].wav",PLUCK,3
+"[PLUCK] Blown Guitar_[4,66].wav",PLUCK,3
+"[PLUCK] BodyBackPluck_[12,33].wav",PLUCK,3
