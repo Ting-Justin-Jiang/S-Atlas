@@ -21,6 +21,8 @@ NUM_SAMPLES = 32000
 
 log_writer = SummaryWriter()
 
+torch.manual_seed(42)  # Set random seed for reproducibility
+
 
 def train_single_epoch(model, train_data, valid_data, loss_fn, optimiser, device):
     model.train()
@@ -50,6 +52,8 @@ def train_single_epoch(model, train_data, valid_data, loss_fn, optimiser, device
     correct = 0.
     total = 0.
 
+    val_losses = []
+    nums = []
     with torch.no_grad():
         for input, target, _ in valid_data:
             input, target = input.to(device), target.to(device)
@@ -57,7 +61,8 @@ def train_single_epoch(model, train_data, valid_data, loss_fn, optimiser, device
             prediction = model(input)
             val_loss = loss_fn(prediction, target)
 
-            val_losses, nums = val_loss.item(), len(input)
+            val_losses.append(val_loss.item())
+            nums.append(len(input))
 
             _, predicted = torch.max(prediction.data, 1)
             total += target.size(0)
@@ -71,6 +76,7 @@ def train_single_epoch(model, train_data, valid_data, loss_fn, optimiser, device
 
 
 def train(model, train_data, valid_data, loss_fn, optimiser, device, epochs):
+    best_val_accuracy = 0.0
     for i in range(epochs):
         print(f"Epoch {i + 1}")
         loss, val_loss, accuracy, val_accuracy = train_single_epoch(model,
@@ -79,6 +85,11 @@ def train(model, train_data, valid_data, loss_fn, optimiser, device, epochs):
                                                                     loss_fn,
                                                                     optimiser,
                                                                     device)
+        if val_accuracy > best_val_accuracy:
+            best_val_accuracy = val_accuracy
+            torch.save(model.state_dict(), "best_trained_v3.pth")
+            print("Best model saved at best_trained_v3.pth")
+
         log_writer.add_scalar('train_loss/train', float(loss), i)
         log_writer.add_scalar('val_Loss/validation', float(val_loss), i)
         log_writer.add_scalar('train_acc/train', float(accuracy), i)
@@ -130,7 +141,3 @@ if __name__ == "__main__":
 
     # train model
     train(cnn, train_dataloader, valid_dataloader, loss_fn, optimiser, device, EPOCHS)
-
-    # save model
-    torch.save(cnn.state_dict(), "trained_v3.pth")
-    print("Trained feed forward net saved at trained.pth")
